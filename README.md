@@ -1,4 +1,6 @@
 # TableStorage.Abstractions.POCO
+This is a fork of the useful TableStorage.Abstractions.POCO library that I eventually plan to refactor to .NET Standard 2.1
+
 [![Build status](https://ci.appveyor.com/api/projects/status/fx9j8yc06s9ib4n9?svg=true)](https://ci.appveyor.com/project/giometrix/tablestorage-abstractions-poco)
 [![NuGet](https://img.shields.io/nuget/v/TableStorage.Abstractions.POCO.svg)](https://www.nuget.org/packages/TableStorage.Abstractions.POCO)
 [![Nuget Downloads](https://img.shields.io/nuget/dt/TableStorage.Abstractions.POCO.svg?color=purple&logo=nuget)](https://www.nuget.org/packages/TableStorage.Abstractions.POCO)
