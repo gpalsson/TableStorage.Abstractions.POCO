@@ -617,7 +617,7 @@ namespace TableStorage.Abstractions.POCO.Tests
 
 
 		[TestMethod]
-		public async Task get_record_count()
+		public void get_record_count()
 		{
 			Assert.AreEqual(3, tableStore.GetRecordCount());
 		}
